@@ -1,1 +1,2 @@
 First line
+Another line in the example file
